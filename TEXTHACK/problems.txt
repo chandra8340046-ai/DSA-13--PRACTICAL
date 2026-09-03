@@ -1,4 +1,0 @@
-Pattern Search -> KMP Algorithm
-Fuzzy Matching -> Edit Distance
-Document Similarity -> Cosine Similarity
-Citation Analysis -> Graph Algorithm
